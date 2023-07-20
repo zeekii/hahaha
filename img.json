@@ -1,0 +1,15 @@
+{
+  "contact": "no",
+  "templates": [
+    {
+      "name": "fcf logo",
+      "sources": [
+        "https://media.discordapp.net/attachments/531096089487736832/1131665017771671663/logo_png_petit.png?width=281&height=281"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
